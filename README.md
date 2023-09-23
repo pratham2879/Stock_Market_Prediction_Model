@@ -8,17 +8,18 @@ This project leverages machine learning and data analysis techniques to forecast
 # Data Collection:
 We gather extensive historical stock market data, including opening prices, closing prices, trading volumes, dividends, Stock Splits, for each day from year **1927 to 2023** by using **YAHOO!** yfinance package.
 
+# Dependencies:
+* yfinance
+* Matplotlib
+* Scikit-Learn
+* Pandas
+
 # Predictive Models:
 We implement Random Forest Classification, time series analysis, to make accurate predictions.
 
 # Visualizations:
 We provide insightful visualizations of stock price trends over the past **100 Years**, model performance metrics, and buy/sell signals to aid in decision-making.
 
-# Dependencies:
-* yfinance
-* Matplotlib
-* Scikit-Learn
-* Pandas
 
 # Disclaimer:
 
