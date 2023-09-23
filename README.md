@@ -15,10 +15,10 @@ We implement Random Forest Classification, time series analysis, to make accurat
 We provide insightful visualizations of stock price trends over the past **100 Years**, model performance metrics, and buy/sell signals to aid in decision-making.
 
 # Dependencies:
-*yfinance
-*Matplotlib
-*Scikit-Learn
-*Pandas
+* yfinance
+* Matplotlib
+* Scikit-Learn
+* Pandas
 
 # Disclaimer:
 
