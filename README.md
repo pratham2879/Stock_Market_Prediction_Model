@@ -20,6 +20,8 @@ We implement Random Forest Classification, time series analysis, to make accurat
 # Visualizations:
 We provide insightful visualizations of stock price trends over the past **100 Years**, model performance metrics, and buy/sell signals to aid in decision-making.
 
+![Sp500 Plot](https://github.com/pratham2879/Stock_Market_Prediction_Model/assets/70205454/119cbd3f-077a-4342-9299-314b6c3c71bf)
+![Target sp500](https://github.com/pratham2879/Stock_Market_Prediction_Model/assets/70205454/06944b8a-69ed-4cd1-8ea7-b20c666456ac)
 
 # Disclaimer:
 
